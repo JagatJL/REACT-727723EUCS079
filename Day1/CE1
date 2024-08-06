@@ -1,1 +1,17 @@
 
+import React from "react";
+const Check=()=>{
+    
+        alert("Message from Javascript");
+        console.log("Message to developer");
+};
+const Appli=()=>{
+    return (
+        <>
+        <div>
+            <h1>Let we see the output of JavaScript.</h1>
+            <button onClick={Check}>CLICK ME!</button></div>
+            </>
+    );
+};
+export default Appli;
