@@ -5,5 +5,10 @@ let myobj={name:"Jagat"}
 let newobj=myobj
  console.log(newobj.name)
  console.log(myobj.name)
+ let array=["a","e","i","o"]
+ let newarray=array
+ console.log(newarray)
+ array.push("u")
+    console.log(array)
 };
 export default Obj
