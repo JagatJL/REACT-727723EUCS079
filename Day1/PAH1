@@ -1,0 +1,12 @@
+import React from "react";
+const Funct=()=>{
+    return(
+        <>
+        <div>
+            <h1>Today's Practice at Home</h1>
+            <p>This is an example for functional componenet.</p>
+        </div>
+        </>
+    );
+};
+export default Funct
