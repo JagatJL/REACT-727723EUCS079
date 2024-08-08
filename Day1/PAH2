@@ -1,0 +1,7 @@
+import React from "react";
+let num=10;
+const Thenum=()=>{
+    console.log(num);
+};
+export default Thenum
+
