@@ -1,0 +1,9 @@
+
+const Obj=()=>{
+    alert("Check the console")
+let myobj={name:"Jagat"}
+let newobj=myobj
+ console.log(newobj.name)
+ console.log(myobj.name)
+};
+export default Obj
