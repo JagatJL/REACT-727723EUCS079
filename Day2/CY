@@ -1,0 +1,12 @@
+import React from "react";
+
+const Img=()=>{
+    return(
+        <>
+        <div>
+            <h1>Smile Component</h1>
+            <p>This is functional Component</p>
+            <img src="https://img.freepik.com/free-vector/gradient-retro-smiley-emoji-illustration_23-2151050778.jpg?t=st=1722958223~exp=1722961823~hmac=0b09f99769379a39a8dce519200c62aef7fa068edc9c2e57a19208a3027e54f8&w=740"></img></div></>
+        );
+}
+export default Img
